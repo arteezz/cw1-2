@@ -93,7 +93,8 @@ Artyom Kurbayeu
 
 <br><br><br>
 
-    <OL TYPE=1 START=2><font color="red" size="3" face="Arial">Kolory RGB
+<font color="red" size="3" face="Arial">
+    <OL TYPE=1 START=2>Kolory RGB
 </font>
 <font color="ornage" size="2" face="Arial">
     <LI>czerwony
